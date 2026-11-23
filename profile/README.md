@@ -11,6 +11,17 @@ Our projects share a focus on user control, explicit assumptions and reviewable 
 
 ## Four projects. One direction.
 
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/ShadowVenture/ShadowSuite"><img src="https://raw.githubusercontent.com/ShadowVenture/.github/main/profile/cards/suite.jpg" alt="ShadowSuite — One workspace. Every strategy." width="480"></a></td>
+<td width="50%"><a href="https://github.com/ShadowVenture/ShadowMarket"><img src="https://raw.githubusercontent.com/ShadowVenture/.github/main/profile/cards/market.jpg" alt="ShadowMarket — Trade directly. Build trust." width="480"></a></td>
+</tr>
+<tr>
+<td width="50%"><img src="https://raw.githubusercontent.com/ShadowVenture/.github/main/profile/cards/id.jpg" alt="ShadowID — Prove what matters. Share less. In development." width="480"></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/ShadowVenture/.github/main/profile/cards/bots.jpg" alt="ShadowBots — Test strategies. Measure risk. Private research." width="480"></td>
+</tr>
+</table>
+
 | Project | Purpose | Current stage |
 |---|---|---|
 | **[ShadowSuite](https://github.com/ShadowVenture/ShadowSuite)** | A modular platform for your own bot plugins, central risk checks and a paper ledger | Public pre-alpha; paper trading only |
