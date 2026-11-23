@@ -1,2 +1,3 @@
-# .github
-ShadowVenture · organisation profile, project directory and community entry points.
+# ShadowVenture
+
+Organisation profile and community resources. See [profile/README.md](profile/README.md).
